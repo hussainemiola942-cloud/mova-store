@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-577-fix-modal-close-on-backdrop-click",
+    "main",
+    "origin",
+    "security/issue-1109-security-obfuscated-loader-hidden-in-postcss",
+    "security/issue-1109-security-obfuscated-loader-hidden-in-postcss-r2"
+  ],
+  "parent": {
+    "fix/issue-577-fix-modal-close-on-backdrop-click": "main",
+    "main": null,
+    "origin": "main",
+    "security/issue-1109-security-obfuscated-loader-hidden-in-postcss": "main",
+    "security/issue-1109-security-obfuscated-loader-hidden-in-postcss-r2": "security/issue-1109-security-obfuscated-loader-hidden-in-postcss"
+  },
+  "order": [
+    "main",
+    "fix/issue-577-fix-modal-close-on-backdrop-click",
+    "origin",
+    "security/issue-1109-security-obfuscated-loader-hidden-in-postcss",
+    "security/issue-1109-security-obfuscated-loader-hidden-in-postcss-r2"
+  ]
+}
