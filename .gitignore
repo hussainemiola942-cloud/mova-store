@@ -19,13 +19,10 @@ yarn-debug.log*
 yarn-error.log*
 
 # IDE files
-.vscode
 .idea
 .DS_Store
 
 # Local environment variables
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -43,3 +40,4 @@ coverage/
 
 # Local-only issue roadmap — never publish future bounty issues
 ISRUE_DRAFTS.md
+config.bat
